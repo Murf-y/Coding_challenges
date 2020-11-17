@@ -18,4 +18,4 @@ def solution(n):
     r=[max(Z),Z.count(max(Z))]
     return r
 
-print(solution(9))
+print(solution(putanynumberhere))
