@@ -19,3 +19,4 @@ def solution(n):
     return r
 
 print(solution(putanynumberhere))
+#it is pretty slow
