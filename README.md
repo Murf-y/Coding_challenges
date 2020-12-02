@@ -1,2 +1,2 @@
-# weekly_coding_challenge
-TwT discord coding challgenges 
+# coding_challenges
+
